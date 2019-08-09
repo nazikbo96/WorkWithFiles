@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\bin\Debug\Delegats.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\bin\Debug\Delegats.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\bin\Debug\Delegats.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\obj\Debug\Delegats.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\obj\Debug\Delegats.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\obj\Debug\Delegats.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\Delegats\Delegats\obj\Debug\Delegats.pdb

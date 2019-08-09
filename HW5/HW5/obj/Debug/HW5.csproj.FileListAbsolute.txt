@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\obj\Debug\HW5.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson5\HW5\HW5\obj\Debug\HW5.pdb

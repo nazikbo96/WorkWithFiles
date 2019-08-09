@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\bin\Debug\Comparable.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\bin\Debug\Comparable.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\bin\Debug\Comparable.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\obj\Debug\Comparable.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\obj\Debug\Comparable.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\obj\Debug\Comparable.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson4\Comparable\Comparable\obj\Debug\Comparable.pdb

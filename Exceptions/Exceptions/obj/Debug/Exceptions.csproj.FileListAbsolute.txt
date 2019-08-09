@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson1\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

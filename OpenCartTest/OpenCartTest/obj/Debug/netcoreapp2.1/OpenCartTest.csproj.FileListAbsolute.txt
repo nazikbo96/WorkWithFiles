@@ -1,0 +1,17 @@
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\OpenCartTest.deps.json
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\OpenCartTest.runtimeconfig.json
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\OpenCartTest.runtimeconfig.dev.json
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\OpenCartTest.dll
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.AssemblyInfoInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.AssemblyInfo.cs
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\OpenCartTest.pdb
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.dll
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.pdb
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\bin\Debug\netcoreapp2.1\System.Windows.Forms.VisualStudio.15.0.dll
+C:\Users\Назарій\Desktop\Automation\Part3\TESTS\Test_OpenCart\OpenCartTest\OpenCartTest\obj\Debug\netcoreapp2.1\OpenCartTest.csproj.CopyComplete

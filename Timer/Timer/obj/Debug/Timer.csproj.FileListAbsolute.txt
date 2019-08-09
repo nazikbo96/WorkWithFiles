@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Timer\Timer\obj\Debug\Timer.pdb

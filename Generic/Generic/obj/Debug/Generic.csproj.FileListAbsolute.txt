@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week1\Lesson5\Generic\Generic\obj\Debug\Generic.pdb
