@@ -1,0 +1,7 @@
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Назарій\Desktop\Automation\Part2\Week2\Lesson3\Shapes\Shapes\obj\Debug\Shapes.pdb
